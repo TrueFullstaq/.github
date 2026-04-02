@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <a href="https://www.truefullstaq.com">
-    <img src="https://www.truefullstaq.com/logo-truefullstaq.svg" alt="TrueFullstaq" width="360">
+    <img src="https://raw.githubusercontent.com/TrueFullstaq/.github/main/profile/logo.svg" alt="TrueFullstaq" width="360">
   </a>
   <br>
 </h1>
